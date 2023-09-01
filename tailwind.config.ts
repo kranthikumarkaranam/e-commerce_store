@@ -1,5 +1,4 @@
 import type { Config } from 'tailwindcss';
-import plaiceholder from '@plaiceholder/tailwindcss';
 
 const config: Config = {
 	content: [
