@@ -20,8 +20,8 @@ Welcome to STORE, your ultimate fashion destination! 🛒 We've got something fo
 - [🖼️ Project Screenshots](#screenshots)
 - [💡 Key Features](#features)
 - [🛠️ Installation & Set Up](#installation)
-- [🌱 Environment Variables](#env)
 - [🏭 Building & Running for Production](#production)
+- [🌱 Environment Variables](#env)
 - [💻 Tech Stack](#tech)
 - [🍰 Contribution Guidelines](#contribution)
 - [📝 Creating a Pull Request](#pull)
@@ -80,23 +80,22 @@ Welcome to STORE, your ultimate fashion destination! 🛒 We've got something fo
 
 **Here are some of the standout features of the project:**
 
-- **Trendy Fashion Selection**: Explore a variety of fashion categories, from Ethnic Wear to Sleep & Lounge Wear, to suit your fashion needs.
+- **Trendy Fashion Selection** 👗: Explore a variety of fashion categories, from Ethnic Wear to Sleep & Lounge Wear, to suit your fashion needs.
 
-- **Effortless Shopping** 🛒: Easily add your favorite fashion items to your cart and breeze through checkout with Stripe for secure payments 💳.
+- **Effortless Shopping** 🛍️: Easily add your favorite fashion items to your cart and breeze through checkout with Stripe for secure payments 💳.
 
-- **Product Sorting by Size and Color**: Enjoy the convenience of sorting products within each category based on size and color preferences, ensuring you find the perfect fit and style.
+- **Product Sorting by Size and Color** 🎨: Enjoy the convenience of sorting products within each category based on size and color preferences, ensuring you find the perfect fit and style.
 
-- **Individual Product Pages**: Dive into the details of each product by viewing dedicated individual product pages, complete with product descriptions, pricing, and sizing/color options.
+- **Individual Product Pages** 📄: Dive into the details of each product by viewing dedicated individual product pages, complete with product descriptions, pricing, and sizing/color options.
 
-- **Related Items**: Discover complementary fashion items below each product, helping you complete your stylish look effortlessly.
+- **Related Items** 🧥: Discover complementary fashion items below each product, helping you complete your stylish look effortlessly.
 
 - **Quick Preview Modal** 🔍: Get a closer look at fashion items with our convenient quick preview modal, ensuring you make the perfect choice.
 
-- **Personalized Recommendations**: Receive personalized fashion suggestions on each product page, making your shopping experience even more delightful.
+- **Personalized Recommendations** 🎁: Receive personalized fashion suggestions on each product page, making your shopping experience even more delightful.
 
-- **User-Friendly Interface**: Enjoy a user-friendly and visually appealing interface designed to enhance your shopping experience.
+- **User-Friendly Interface** 💻: Enjoy a user-friendly and visually appealing interface designed to enhance your shopping experience.
 
-- **Customer Satisfaction**: Our goal is to provide you with a smile-inducing shopping experience, from start to finish 😊.
 
 _Visit STORE today and redefine your fashion journey!_
 
@@ -134,17 +133,6 @@ npm run dev
 <br>
 <br>
 
-<h2 id="env">🌱 Environment Variables</h2>
-
-> To run this project, you need to add the following environment variables to your `.env` file in the project's root directory.
-
-> Also, feel free to take a look at the `.env.example` file _[here](https://github.com/kranthikumarkaranam/e-commerce_store/blob/main/.env.example)_.
-
-- `NEXT_PUBLIC_API_URL`
-
-<br>
-<br>
-
 <h2 id="production">🏭 Building & Running for Production</h2>
 
 **1. Generate a full static production build:**
@@ -161,6 +149,18 @@ npm run start
 
 <br>
 <br>
+
+<h2 id="env">🌱 Environment Variables</h2>
+
+> To run this project, you need to add the following environment variables to your `.env` file in the project's root directory.
+
+> Also, feel free to take a look at the `.env.example` file _[here](https://github.com/kranthikumarkaranam/e-commerce_store/blob/main/.env.example)_.
+
+- `NEXT_PUBLIC_API_URL`
+
+<br>
+<br>
+
 
 <h2 id="tech">💻 Tech Stack</h2>
 
